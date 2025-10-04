@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mano naujas Hugo puslapis</title>
-    <link>https://sigvidas.github.io/</link>
+    <link>https://gnanieh.github.io/</link>
     <description>Recent content on Mano naujas Hugo puslapis</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Oct 2025 20:13:35 +0300</lastBuildDate>
-    <atom:link href="https://sigvidas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gnanieh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Puslapis</title>
-      <link>https://sigvidas.github.io/posts/puslapis/</link>
+      <link>https://gnanieh.github.io/posts/puslapis/</link>
       <pubDate>Sat, 04 Oct 2025 20:13:35 +0300</pubDate>
-      <guid>https://sigvidas.github.io/posts/puslapis/</guid>
+      <guid>https://gnanieh.github.io/posts/puslapis/</guid>
       <description>&lt;p&gt;Štai čia yra naujojo puslapio turinys, jame turėtų būti paveiksliukas ir gabaliukas kodo.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Sveikas, pasauli!&amp;#34;&lt;/span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://sigvidas.github.io/images/paveiksliukas.jpg&#34;/&gt; &lt;figcaption&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://gnanieh.github.io/images/paveiksliukas.jpg&#34;/&gt; &lt;figcaption&gt;
             Paveiksliukas
         &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -27,9 +27,9 @@
     </item>
     <item>
       <title>Naujas puslapis</title>
-      <link>https://sigvidas.github.io/posts/newpage/</link>
+      <link>https://gnanieh.github.io/posts/newpage/</link>
       <pubDate>Sat, 04 Oct 2025 20:02:35 +0300</pubDate>
-      <guid>https://sigvidas.github.io/posts/newpage/</guid>
+      <guid>https://gnanieh.github.io/posts/newpage/</guid>
       <description></description>
     </item>
   </channel>
